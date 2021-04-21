@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<details>
+  <img align="left" alt="EspadaMao's Github stats" src="https://github-readme-stats-blush-one.vercel.app/api?username=EspadaMao&show_icons=true&hide_border=true"/>
+</details>
+
 <!--
 **EspadaMao/EspadaMao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
